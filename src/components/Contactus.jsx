@@ -47,7 +47,7 @@ const ContactUs = () => {
                 </div>
             </div>
             <div class="subject" id="sub-msg">
-                <input type="email" placeholder="Email Address"/>
+                <input type="email" placeholder="Address...."/>
             </div>
             <div class="Message" id="sub-msg">
                 <input type="message" placeholder="Message..."/>
