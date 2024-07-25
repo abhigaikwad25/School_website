@@ -1,8 +1,32 @@
-# React + Vite
+Installation
+Clone the repository:
+git clone https://github.com/yourusername/school-website.git
+cd school-website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Install the dependencies:
+npm install
+Usage
 
-Currently, two official plugins are available:
+Start the development server:
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Open your browser and navigate to http://localhost:3000 to see the website.
+
+Project Structure
+arduino
+Copy code
+school-website/
+├── public/
+│   
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── styles/
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
