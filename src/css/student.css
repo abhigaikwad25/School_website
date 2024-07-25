@@ -1,0 +1,133 @@
+.card {
+    border: 1px solid #007bff;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.card-title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.studentheader{
+    
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* student.css */
+
+.achievement-card {
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.achievement-card-body {
+    padding: 20px;
+}
+
+.achievementcard-text {
+    font-size: 16px;
+    color: #333;
+}
+
+.achievement-card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+/* student.css */
+
+.container {
+    max-width: 1200px;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+.achievement-card {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    overflow: hidden;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.achievement-card-body {
+    padding: 20px;
+}
+
+.achievement-card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+.achievement-card-text {
+    font-size: 1rem;
+    color: #333;
+}
+
+.achievement-card-text.text-muted {
+    color: #6c757d;
+}
+
+/* student.css */
+
+.container {
+    max-width: 1200px;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+.achievement-card {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    overflow: hidden;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.achievement-card img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+}
+
+.achievement-card-body {
+    padding: 20px;
+}
+
+.achievement-card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+.achievement-card-text {
+    font-size: 1rem;
+    color: #333;
+}
+
+.achievement-card-text.text-muted {
+    color: #6c757d;
+}

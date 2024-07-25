@@ -1,0 +1,30 @@
+body{
+  /* background-color: #e6ffff; */
+  background-color: #ccffff;
+}
+
+.navbar{
+  background-color: #00a3cc;
+}
+
+.custom-navbar{
+  color: #000;
+  font-size: 20px;
+}
+
+.navbar-nav .nav-link {
+  display: inline-block;
+  padding: 5px 20px;
+  margin: 5px;
+  color: white;
+  background-color: #00e6b8;
+  border-radius: 15px;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: #0056b3;
+  color: white;
+}
+

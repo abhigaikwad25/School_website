@@ -1,0 +1,47 @@
+/* .slideshow {
+    width: 80%;
+    margin: auto;
+  }
+  
+.slideshow img {
+    width: 100%;
+    height: auto;
+}
+*/
+ .logo{
+  width: 30px;
+} 
+
+.slideshow {
+  max-width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.slideshow img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.schoolheading{
+  font-size: 20px;
+  font-weight: bold;
+  margin:10px 0 10px 10px;
+  color: #007bff;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.schoolinfo{
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  
+}
